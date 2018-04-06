@@ -1,0 +1,14 @@
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass-viewer.csproj.ResolveComReference.cache
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass_viewer.Form1.resources
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass_viewer.Properties.Resources.resources
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass-viewer.csproj.GenerateResource.Cache
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass-viewer.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\bin\Debug\Lastpass-viewer.exe.config
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\bin\Debug\Lastpass-viewer.exe
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\bin\Debug\Lastpass-viewer.pdb
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\bin\Debug\LastPass.dll
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\bin\Debug\LastPass.pdb
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass-viewer.csprojResolveAssemblyReference.cache
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass-viewer.exe
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\obj\Debug\Lastpass-viewer.pdb

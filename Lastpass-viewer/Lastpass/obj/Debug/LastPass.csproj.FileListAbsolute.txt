@@ -1,0 +1,11 @@
+C:\Users\mantis\Desktop\lastpass-sharp-master\src\bin\Debug\LastPass.dll
+C:\Users\mantis\Desktop\lastpass-sharp-master\src\bin\Debug\LastPass.pdb
+C:\Users\mantis\Desktop\lastpass-sharp-master\src\obj\Debug\LastPass.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Desktop\lastpass-sharp-master\src\obj\Debug\LastPass.dll
+C:\Users\mantis\Desktop\lastpass-sharp-master\src\obj\Debug\LastPass.pdb
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\Lastpass\bin\Debug\LastPass.dll
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\Lastpass\bin\Debug\LastPass.pdb
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\Lastpass\obj\Debug\LastPass.csprojResolveAssemblyReference.cache
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\Lastpass\obj\Debug\LastPass.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\Lastpass\obj\Debug\LastPass.dll
+C:\Users\mantis\Documents\Source\Repos\Lastpass-viewer\Lastpass-viewer\Lastpass-viewer\Lastpass\obj\Debug\LastPass.pdb

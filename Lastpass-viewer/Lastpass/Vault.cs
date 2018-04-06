@@ -58,7 +58,9 @@ namespace LastPass
                                                               folder == null ? encryptionKey : folder.EncryptionKey,
                                                               folder);
                         if (account != null)
+                        {
                             accounts.Add(account);
+                        }
                         break;
                     case "PRIK":
                         rsaKey = ParserHelper.Parse_PRIK(i, encryptionKey);

@@ -115,7 +115,9 @@ namespace LastPass
                     };
 
                 if (multifactorPassword != null)
+                {
                     parameters["otp"] = multifactorPassword;
+                }
 
                 return XDocument.Parse(webClient.UploadValues("https://lastpass.com/login.php",
                                                               parameters).ToUtf8());

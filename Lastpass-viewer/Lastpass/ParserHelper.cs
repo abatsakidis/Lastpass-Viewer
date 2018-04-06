@@ -57,7 +57,9 @@ namespace LastPass
 
                     // Only the some secure notes contain account-like information
                     if (!AllowedSecureNoteTypes.Contains(type))
+                    {
                         return null;
+                    }
                 }
 
                 // Override the group name with the shared folder name if any.
@@ -257,7 +259,9 @@ namespace LastPass
             if (length == 0)
                 return "";
             else if (data[0] == '!' && length % 16 == 1 && length > 32)
-                return DecryptAes256CbcPlain(data, encryptionKey);
+            { 
+            return DecryptAes256CbcPlain(data, encryptionKey);
+             }
             else
                 return DecryptAes256EcbPlain(data, encryptionKey);
         }
@@ -267,11 +271,17 @@ namespace LastPass
             var length = data.Length;
 
             if (length == 0)
+            {
                 return "";
+            }
             else if (data[0] == '!')
+            {
                 return DecryptAes256CbcBase64(data, encryptionKey);
+            }
             else
+            {
                 return DecryptAes256EcbBase64(data, encryptionKey);
+            }
         }
 
         public static string DecryptAes256EcbPlain(byte[] data, byte[] encryptionKey)
@@ -308,7 +318,9 @@ namespace LastPass
         public static string DecryptAes256(byte[] data, byte[] encryptionKey, CipherMode mode, byte[] iv)
         {
             if (data.Length == 0)
+            {
                 return "";
+            }
 
             using (var aes = new AesManaged {KeySize = 256, Key = encryptionKey, Mode = mode, IV = iv})
             using (var decryptor = aes.CreateDecryptor())

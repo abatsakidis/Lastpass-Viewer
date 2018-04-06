@@ -13,8 +13,8 @@ You can view or export your Lasspass' Accounts using this application. Its suppo
 * Click **OK** button
 * View your accounts 
 <br>
-* You can also export your accounts into an Excel file using **Export (Excel)** button
-<br>
+* You can also export your accounts into an Excel file using **Export** button
+<br><br>
 
 ![Alt text](/Screenshot/screen.JPG?raw=true "Lastpass Viewer")
 
